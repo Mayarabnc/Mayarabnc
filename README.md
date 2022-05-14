@@ -2,9 +2,12 @@
 <div align="center"><h2> Bem vindo ao meu perfil GitHub </h2></div> 
 
 <dir>
-<img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif">
-</dir>
+<img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif"/>
+</dir >
 
+
+
+                                              Atualmente estou cursando o bootcamp da Generation Brasil
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,12 +15,9 @@
 <div align="center">
   <a href="https://github.com/Mayarabnc">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mayarabnc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayarabnc&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayarabnc&layout=compact&langs_count=7&theme=maroongold"/a>
 </div>
 
-  
-  
-  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Ferramentas e Tecnologias!
 <div>
@@ -26,11 +26,10 @@
   
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Contatos:
-  <dir>
+ <dir>
 <a href = "mayarabncabral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Mayara-Bueno-Nunes-Cabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-  </dir>
+ </dir>
   
   
 <!--
