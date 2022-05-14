@@ -3,13 +3,14 @@
 
 <dir>
 <img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif"/>
-</dir >
+</dir>
 
 
 
                             Atualmente estou cursando o bootcamp da Generation Brasil e no caminho de me tornar uma 
                                                  😀 Desenvolvedora Full Stack Java Junior 😀
-                                                 
+                            🥳 Estou trabalhando no projeto integrador e em um blog pessoal propostos pela tia Gen 🥳
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +24,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Ferramentas e Tecnologias!
 <div>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>     
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>
+          
+          
 </div>
   
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
