@@ -1,5 +1,5 @@
 ### <div align="center"><h1> 👋🏾 Olá, me chamo Mayara 👋🏾 </h1></div>
-<div align="center"><h2> Bem vindo ao meu perfil GitHub </h2></div> 
+<div align="center"><h2> Bem vindo ao meu perfil no GitHub </h2></div> 
 
 <div align="center"> 
 <img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif"/>
