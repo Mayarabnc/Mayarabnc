@@ -4,13 +4,13 @@
 <div align="center"> 
 <img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif"/>
 </div>
-
-
-
-                            Atualmente estou cursando o bootcamp da Generation Brasil e no caminho de me tornar uma 
-                                                 😀 Desenvolvedora Full Stack Java Junior 😀
-                            🥳 Estou trabalhando no projeto integrador e em um blog pessoal propostos pela tia Gen 🥳
-
+<div align="center">
+<p> 🥳 Sou uma dev Full stack apaixonada por tecnologia e com uma leve preferência pelo front-end 🥳</p>
+<p>- Estou a procura de um emprego e tentando entrar na faculdade;</p>
+<p>- Fiz o bootcamp da Generation Brsil(Vocês podem visualizar nosd meus repositorios 😊);</p>
+<p>- Amo Super herois, a minha favorita é a Miss Marvel(Kamala Khan);</p>
+<p>- Aprendi a tocar violão sozinha e a musica é um dos meus hobbies favoritos;</p>
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
